@@ -1,0 +1,34 @@
+mode = "dark"
+
+# Disco Elysium Night: oil-paint dusk over Martinaise.
+# Cream ink on warm charcoal, burnt-orange accent.
+# Skill hues: Intellect=blue, Psyche=magenta, Physique=red, Motorics=yellow
+accent = "#d9773e"
+selection = "#3b3531"
+muted = "#776d61"
+
+background = "#1e1c1b"
+dark_background = "#171514"
+darker_background = "#110f0e"
+lighter_background = "#2a2724"
+
+foreground = "#d9cfb8"
+dark_foreground = "#5c544a"
+light_foreground = "#a89e8a"
+bright_foreground = "#efe6cf"
+
+red = "#d66152"
+yellow = "#d6a64a"
+orange = "#d9773e"
+green = "#8f9e5e"
+cyan = "#62a8a4"
+blue = "#7395bd"
+magenta = "#a77bb2"
+brown = "#7a4e2d"
+
+bright_red = "#e2715f"
+bright_yellow = "#e6bd66"
+bright_green = "#a8b678"
+bright_cyan = "#80c0bb"
+bright_blue = "#8fadd2"
+bright_magenta = "#bf95c9"
